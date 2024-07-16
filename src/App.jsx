@@ -1,9 +1,10 @@
 import React from 'react'
+import Payment from './Payment'
 
 const App = () => {
   return (
     <div>
-      My app
+      <Payment />
     </div>
   )
 }
